@@ -35,5 +35,5 @@ Below is the list of Python Programming Practical Questions to perform:
     32. WAP to calculate the product of digit of a given number?
     33. WAP to find the reverse of given number?
     34. WAP to check whether a given number is palindrome or not?
-    35. WAP to check whether a given number is prime or not?
+    36. WAP to check whether a given number is prime or not?
 
